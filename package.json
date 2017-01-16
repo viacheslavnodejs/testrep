@@ -1,0 +1,22 @@
+{
+  "name": "node-l1-dev-npm",
+  "version": "1.0.0",
+  "description": "1-st npm Hallo Node simple server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viacheslavnodejs/testrep.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viacheslavnodejs/testrep/issues"
+  },
+  "homepage": "https://github.com/viacheslavnodejs/testrep#readme"
+}
